@@ -1,0 +1,10 @@
+.chart-card {
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 22px;
+    box-shadow: 1px 0px 5px 1px gray;
+}
+.charts{
+    height: 240px;
+}
