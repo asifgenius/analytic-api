@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    gap: 22px;
+}
+
+.dashboard{
+    display: flex;
+}
+
+.dropdown-button{
+    width: 103px;
+}
+
+.chart-card {
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 22px;
+    box-shadow: 1px 0px 5px 1px gray;
+}
+
+.container {
+    padding: 20px;
+}
