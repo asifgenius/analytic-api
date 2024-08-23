@@ -1,0 +1,17 @@
+.side-bar-menu{
+    padding-top: 29px;
+    height: 270vh;
+}
+
+.ps-sidebar-root{
+    width:  189px !important;
+    min-width: 189px !important;
+}
+
+.ps-menu-label{
+    text-align: center;
+}
+
+.ps-menuitem-root{
+    background-color: #f3f3f3;
+}
