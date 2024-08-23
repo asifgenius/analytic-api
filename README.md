@@ -57,3 +57,7 @@ GET /api/v1/orders/analytics/life-time
 | 400 | BAD REQUEST |
 | 404 | NOT FOUND |
 | 500 | INTERNAL SERVER ERROR |
+
+## Sceenshot
+![Alt text](https://raw.githubusercontent.com/asifgenius/analytic-api/master/docs/images/analytic.png)
+![Alt text](https://raw.githubusercontent.com/asifgenius/analytic-api/master/docs/images/analytic1.png)
